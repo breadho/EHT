@@ -18,6 +18,4 @@ Study for Event Horizon Telescope image processing
 
 <img src="comrade_result/comrade_opt_plot.png" width = "500" height="400"/>
 
-<img src="comrade_result/comrade_opt_plot2.png" width = "500" height="400"/>
-
 <img src="comrade_result/comrade_result_2.png" width = "500" height="400"/>
